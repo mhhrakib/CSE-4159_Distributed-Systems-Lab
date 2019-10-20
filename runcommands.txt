@@ -1,0 +1,9 @@
+open a terminal and run
+
+make -f Makefile.matrix_Op
+
+./matrix_Op_server
+
+open another terminal and run:
+
+./matrix_Op_client localhost
