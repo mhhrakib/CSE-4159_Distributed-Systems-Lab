@@ -1,7 +1,0 @@
-Please open a terminal and change directory to where the files are extracted
-and then run followin command in diiferent tab/terminal window.
-
-
-python3 server.py
-
-python3 client.py
